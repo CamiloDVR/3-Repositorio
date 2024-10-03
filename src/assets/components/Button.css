@@ -1,0 +1,21 @@
+
+button{
+    background-color: #000000; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 10px 20px; /* Espaciado interno */
+    border: none; /* Sin borde */
+    font-size: 16px; /* Tamaño de la fuente */
+    cursor: pointer; /* Cambia el cursor al pasar por encima */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra */
+    transition: background-color 0.3s ease; /* Transición suave */
+    width: 481px;
+    height: 80px;
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em ;
+}
+
+button:hover {
+    background-color: #634b47; /* Color de fondo al pasar el cursor */
+}
+
+    
